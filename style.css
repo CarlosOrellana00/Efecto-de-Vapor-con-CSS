@@ -9,7 +9,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #000000;
+  background-color: #160e0e;
 }
 
 img{
@@ -20,4 +20,16 @@ img{
   width: 500px;
   height: 600px;
   position: relative;
+}
+
+.cup{
+  position: absolute;
+  bottom: 0;
+}
+
+.smoke-wrap{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 222px;
 }
