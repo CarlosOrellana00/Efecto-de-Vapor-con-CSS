@@ -21,3 +21,8 @@ Este proyecto se creó con fines de aprendizaje usando HTML y CSS.
 
 ## ¿Puedo Probarlo en Linea? 
 Si, Puedes probarlo en linea haciendo click [aqui](https://carlosorellana00.github.io/Efecto-de-Vapor-con-CSS/)
+
+## Referencias y Agradecimientos a: 
+- [Autor ->Tuat Tran Anh](https://www.youtube.com/c/TuatTranAnh)
+- [Version Original -> aqui](https://github.com/trananhtuat/css-smoke-effect)
+- [Video Tutorial ->CSS Smoke Effect | CSS Animation](https://www.youtube.com/watch?v=CFb3LKrE-OQ&t=1s)
